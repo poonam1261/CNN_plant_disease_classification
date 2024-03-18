@@ -32,6 +32,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 ### Test Image
 <a> <img src="pepper-bacteria-spot3.jpeg" ></a>
 
-###Prediction
+### Prediction
 <a> <img src="Screenshot (154).png" > <a/>
 
