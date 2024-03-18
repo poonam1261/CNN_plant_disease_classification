@@ -2,7 +2,7 @@
 
 ## Description
 
-<p>Plant disease detection is a machine learning (ML) project that uses images to identify and diagnose diseases in plants.<p/>
+<p>✔ Plant disease detection is a machine learning (ML) project that uses images to identify and diagnose diseases in plants.<p/>
 This can be helpful for farmers, plant enthusiasts, and researchers to monitor large fields of crops more easily and cheaply.
 The project uses traditional ML techniques, such as feature extraction and classification, to train a classifier that can differentiate between healthy and diseased plants.
 The classifier is trained on a dataset of images of healthy and diseased plants collected under controlled conditions.
