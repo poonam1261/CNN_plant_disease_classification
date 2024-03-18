@@ -20,11 +20,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-📌Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
-📌pip install tensorflow
-📌pip install numpy
-📌pip install streamlit
-📌pip install kaggle
+<p>📌Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset<p/>
+<p>📌pip install tensorflow<p/>
+<p>📌pip install numpy<p/>
+<p>📌pip install streamlit<p/>
+<p>📌pip install kaggle<p/>
 
 ## Usage
 
