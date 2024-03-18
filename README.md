@@ -29,4 +29,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 <p>🍀 The project has the potential to contribute to more sustainable agricultural practices and greater food production security.<p/> 
 <p>🍀 By detecting plant diseases early, farmers can take steps to prevent the spread of the disease and save their crops.<p/>
 
+### Test Image
+<a> <img src="pepper-bacteria-spot3.jpeg" ></a>
+
+###Prediction
+<a> <img src="Screenshot (154).png" > <a/>
 
