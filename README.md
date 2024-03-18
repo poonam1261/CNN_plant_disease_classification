@@ -2,16 +2,12 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- To try on the tensorflow, numpy, streamlit, json..
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- 
-- What problem does it solve?
-- 
-- What did you learn?
-- 
+<p>Plant disease detection is a machine learning (ML) project that uses images to identify and diagnose diseases in plants.<p/>
+This can be helpful for farmers, plant enthusiasts, and researchers to monitor large fields of crops more easily and cheaply.
+The project uses traditional ML techniques, such as feature extraction and classification, to train a classifier that can differentiate between healthy and diseased plants.
+The classifier is trained on a dataset of images of healthy and diseased plants collected under controlled conditions.
+The project has the potential to contribute to more sustainable agricultural practices and greater food production security. 
+By detecting plant diseases early, farmers can take steps to prevent the spread of the disease and save their crops.
 
 ## Table of Contents (Optional)
 
