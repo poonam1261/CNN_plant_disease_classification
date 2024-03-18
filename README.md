@@ -31,7 +31,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 <a> <img src="test_apple_black_rot.jpeg" ></a>
 
 ### Prediction
-<a> <img src=" " > <a/>
+<a> <img src="Screenshot (157).png" > <a/>
 
 
 
