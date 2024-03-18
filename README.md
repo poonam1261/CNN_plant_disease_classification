@@ -28,7 +28,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 <p>🍀 By detecting plant diseases early, farmers can take steps to prevent the spread of the disease and save their crops.<p/>
 
 ### Test Image
-<a> <img src="pepper-bacteria-spot3.jpeg" ></a>
+<a> <img src="test_apple_black_rot.jpeg" ></a>
+
+### Prediction
+<a> <img src=" " > <a/>
 
 
 
