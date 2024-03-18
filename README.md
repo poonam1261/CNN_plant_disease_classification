@@ -20,7 +20,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+📌Kaggle Dataset Link: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+📌pip install tensorflow
+📌pip install numpy
+📌pip install streamlit
+📌pip install kaggle
 
 ## Usage
 
