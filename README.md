@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a 
-    <img src="Plant_disease_detection_Logo.png" alt="Logo" width="80" height="80">
+    <img src="[Plant_disease_detection_Logo.png](https://github.com/poonam1261/CNN_plant_diseasse_classification/blob/c2ffe52e61bbf335fcd8ec1b4d12bc99d8a32871/Plant_disease_detection_Logo.png)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
